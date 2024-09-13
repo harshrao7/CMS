@@ -1,0 +1,23 @@
+.Mycard{
+    min-width: 300px;
+    max-width: 450px;
+    border-radius: 15px;
+    height: 180px;
+    background-color: #EA7E36;  
+    margin: 10px;
+    position: relative;
+    color: white;
+    z-index: -1;
+}
+
+.background-mycard{
+    position: relative;
+    background: url("https://media.geeksforgeeks.org/auth-dashboard-uploads/dev2.png") 50% !important;
+    object-fit: cover;
+    height: 150px;
+}
+
+.cardtitle{
+    font-size: 20px;
+    padding: 10px;
+}

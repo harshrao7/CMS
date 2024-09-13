@@ -1,0 +1,30 @@
+.carouselwrap{
+    display: flex;
+    justify-content: center;
+    /* background: rgb(17,17,17); */
+    background: rgba(35,45,63,1);
+    /* background-color: "#101D32"; */
+    padding-bottom: 5%;
+}
+.carouselcardwrap{
+    display: flex;
+    justify-content: center;
+    /* background: rgb(27, 26, 26); */
+    background: rgba(35,45,63,1);
+    padding: 5%;
+}
+.testicard{
+    display: flex;
+    justify-content: center;
+    
+}
+.corouselcolor{
+    background-color: #1E293B;
+    /* box-shadow:10px 10px 10px #2e405e; */
+    box-shadow:5px 5px 10px #666464;
+}
+.corouselcolor:hover{
+    /* background-color: #1E293B; */
+    /* box-shadow:10px 10px 10px #2e405e; */
+    box-shadow:8px 8px 10px #666464;
+}

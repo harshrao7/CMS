@@ -1,0 +1,19 @@
+.leftproduct{
+    height: 505px;
+}
+.leftproduct img{
+    height: 505px;
+    width: 900px;
+}
+.rightproduct{
+    height: 250px;
+}
+.rightproduct img{
+    height: 250px;
+    width: 600px;
+}
+/* .bottom{
+    height: 500px;
+    display: flex;
+
+} */

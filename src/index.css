@@ -1,0 +1,31 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@import url('https://fonts.googleapis.com/css2?family=Comfortaa&family=Exo+2&family=Maven+Pro&family=Merriweather&family=Montserrat&family=Poppins&family=Sacramento&family=Space+Grotesk&display=swap');
+
+body::-webkit-scrollbar{
+    display: block;
+    width: 10px;
+    height: 10px;
+    
+}
+
+body::-webkit-scrollbar-button{
+    height: 100%;
+}
+
+body::-webkit-scrollbar-thumb{
+    background-color: #13A3AA;
+    border-radius: 50px;
+}
+*{
+    font-family: 'Poppins', sans-serif;
+}
+html, body {
+    caret-color: transparent; /* Modern browsers */
+    /* color: transparent; */
+}
+*::-webkit-scrollbar{
+    display: none;
+}

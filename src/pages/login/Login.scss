@@ -1,0 +1,18 @@
+.login {
+  background: rgb(60, 76, 106);
+  background: linear-gradient(
+    180deg,
+    rgb(73, 92, 128) 0%,
+    rgb(55, 70, 97) 58%,
+    rgba(35, 45, 63, 1) 100%
+  );
+  height: 88vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  .container {
+    margin-right: 5%;
+    height: 500px;
+    width: 600px;
+  }
+}
